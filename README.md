@@ -12,14 +12,18 @@ La meta del proyecto es principalmente aprender a programar proyectos grandes, o
 * Reducir el consumo de SRAM de 1890 Bytes a solo 289 Bytes (-84,71% de consumo)
 * Organizar de manera correcta el programa
 * Reducir el consumo de las variables globales
-
+* Sistema de economía
+* Gestor de ingresos en base a la población 
+* Permitir guardar partidas en slots dedicados usando la memoria EEPROM.
+* Arreglar el sistema de economía y calculos de los ingresos
+* Sistema de invasiones y probabilidad de invasión
 
 ### Funciones por implementar
 
 
-* Permitir guardar partidas en slots dedicados usando la memoria EEPROM.
+
 * Separar las funciones y comandos del archivo principal, creando una librería o archivos separados.
-* Añadir un sistema de economia
+* Hacer que la felicidad y otras variables afecten a la cantidad de impuestos recaudados.
 * Añadir un sistema de felicidad
 * Añadir un Períodico con noticias sobre la aldea
 * Añadir un sistema de soldados
